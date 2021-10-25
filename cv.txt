@@ -1,0 +1,705 @@
+<div class="container-fluid d-none d-md-block" style="background: #fdfdfd;padding:0px !important;border-bottom: 1px solid #c9cfdd;">
+        <div class="container d-none d-md-block tope">
+            <div class="first">
+                <div>
+                    <p class="f-p">
+                        <a href="#" class="link-t">191,926</a> jobs from <a href="#" class="link-t">9,901</a> companies
+                    </p>
+                </div>
+                <div><p class="f-p"><img src="~/Content/Images/heart-outline.svg" style=" width: 1.3rem;" /> Saved Jobs (0)</p></div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid d-md-block d-none"style="background: rgb(6,115,138) !important;padding: 2rem 0;">
+        <div class="container p-0 m-s">
+            <div class=" col-md-12 col-lg-12 col-xl-10 m-auto p-i">
+                <div class="d-flex" style="justify-content:space-between;border-bottom:1px solid">
+                    <div>
+                        <h4 class="text-white">
+                            Search 207,542 Job
+                        </h4>
+                    </div>
+                    <div>
+                        <p class="text-white text-p">
+                            Job Searching Tips
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-2 m-0">
+
+                    <div class="col-5 p-0 pr-2">
+                        <label class="text-white">
+                            Keywords / Job Title / Job Ref
+                        </label>
+                        <input type="text" placeholder="e.g. Customer Service" class="form-control" />
+                    </div>
+                    <div class="col-5 p-0 pr-2">
+                        <label class="text-white">
+                            Location
+                        </label>
+                        <input type="text" placeholder="e.g. town or postcode" class="form-control" />
+                    </div>
+                    <div class="col-2 p-0">
+                        <label class="text-white">Distance</label>
+                        <select aria-label="Default select example" class="form-control1">
+                            <option selected>upto 15 miles</option>
+                            <option value="1">upto 1 miles</option>
+                            <option value="2">upto 2 miles</option>
+                            <option value="3">upto 5 miles</option>
+                            <option value="3">upto 7 miles</option>
+                            <option value="3">upto 10 miles</option>
+                            <option value="3">upto 25 miles</option>
+                            <option value="3">upto 50 miles</option>
+                            <option value="3">upto 75 miles</option>
+                            <option value="3">upto 100 miles</option>
+                            <option value="3">upto 250 miles</option>
+                            <option value="3">upto 500 miles</option>
+                        </select>
+                    </div>
+
+                </div>
+                <div class="row mt-2 m-0">
+
+                    <div class="col-lg-2 col-md-3  p-0 pr-2">
+                        <label class="text-white">
+                            Salary Min
+                        </label>
+                        <input type="text" placeholder="e.g £15,000" class="form-control" />
+                    </div>
+                    <div class="col-lg-2 col-md-2  p-0 pr-2">
+                        <label class="text-white">
+                            Salary Max
+                        </label>
+                        <input type="text" placeholder="e.g £25,000" class="form-control" />
+                    </div>
+                    <div class="col-lg-4 col-md-3  p-0 pr-2">
+                        <label class="text-white">Salary Type</label>
+                        <select aria-label="Default select example" class="form-control1">
+                            <option selected>per anum</option>
+                            <option value="1">per month</option>
+                            <option value="2">per week</option>
+                            <option value="3">per day</option>
+                            <option value="3">per hour</option>
+                        </select>
+                    </div> 
+                    <div class="col-lg-2 col-md-2 p-0 pr-2">
+                               <label class="text-white">Posted in the</label>
+                        <select aria-label="Default select example" class="form-control1">
+                            <option selected>Last 28 days</option>
+                            <option value="1">Last 14 days</option>
+                            <option value="2">Last 7 days</option>
+                            <option value="3">Last 3 days</option>
+                            <option value="3">Last 24 hours</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-2 col-md-2 p-0 ">
+                        <label class="d-flex"><br /></label>
+                        <a class="button-anchor btn">Find Job <i class="fa fa-search"></i></a>
+                        
+                    </div>
+                </div>
+                <div class="d-flex mt-2">
+                    <p class="sp-p pr-4">
+                        More search options <i class="fa fa-arrow-down"></i>
+                    </p>
+                    <p class="sp-p">
+                        Recent searches <i class="fa fa-arrow-down"></i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+   <div class="container d-block d-sm-block d-md-none pt-2" style="background: rgb(6,115,138) !important;border-top:0.1rem solid #0080e1">
+       <div class="container-fluid p-0">
+           <p class="text-white heading-p">Search <a href="#" class="s-l-c">199,594</a> Jobs</p>
+           <form>
+               <label class="l-s">Keywords / Job Title / Job Ref</label>
+               <input type="text" class="form-control" placeholder="warehouse operative" style="border: 1px solid black" />
+               <label class="l-s">Location</label>
+               <input type="text" class="form-control" placeholder="e.g town or postcode" style="border: 1px solid black" />
+               <label class="l-s">Distance</label>
+              
+               <select aria-label="Default select example" class="form-control">
+                   <option selected>upto 15 miles</option>
+                   <option value="1">upto 1 miles</option>
+                   <option value="2">upto 2 miles</option>
+                   <option value="3">upto 5 miles</option>
+                   <option value="3">upto 7 miles</option>
+                   <option value="3">upto 10 miles</option>
+                   <option value="3">upto 25 miles</option>
+                   <option value="3">upto 50 miles</option>
+                   <option value="3">upto 75 miles</option>
+                   <option value="3">upto 100 miles</option>
+                   <option value="3">upto 250 miles</option>
+                   <option value="3">upto 500 miles</option>
+               </select>
+               <div class="col-12 mt-3 p-0">
+                   <button class="btn find">Find Job <i class="fa fa-search" style="font-size:initial !important"></i></button>
+               </div>
+               <div class="text-center mt-4">
+                   <p class="circle-p">More Search Option <i class="fa fa-arrow-down"></i></p>
+               </div>
+           </form>
+       </div>
+   </div>
+    <div class="container mt-4 pb-4 p-lg-0">
+        
+            <h5 class="pb-2">
+                Browse jobs by location and category
+            </h5>
+            <div class="row">
+                <div class="col-md-6 col-12">
+                    <h5 class="head-search"><a href="#" style="color: #005596;">Accountancy</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p>
+                    <h5 class="head-search"><a href="#" style="color: #005596;">Agriculture</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Aviation</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Charity</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Construction</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Customer Services</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Education</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Environmental</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Finance</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Home Based</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Human Resources</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Insurance</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Leisure</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Manufacturing</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Media</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Motoring</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">NHS</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Property</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Recruitment</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Sales</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Seasonal</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Social Care</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p> <h5 class="head-search"><a href="#" style="color: #005596;">Travel</a></h5>
+                    <p>
+                        <span class="span-s">Accountant</span>, <span class="span-s">Accounting</span>,<span class="span-s"> payroll</span>, <span class="span-s">Accounts Assistant</span>, <span class="span-s">Assistant Accountant</span>, <span class="span-s">Bookkeeper</span> <span class="span-s">All Accountancy Job Titles</span> <span class="span-s"> By location</span>
+                    </p>
+
+                </div>
+                <div class="col-md-6 col-12">
+                    <h5 class="head-search"><a href="#" style="color: #005596;">Administration</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p>
+                    <h5 class="head-search"><a href="#" style="color: #005596;">Animal Care</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Banking</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Cleaning</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Consulting</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Design</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Engineering</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">FMCG</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Healthcare</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Hospitality</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">IT</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Legal</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Management</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Marketing</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Military</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Multilingual</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Procurement</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Public Service</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Retail</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Science</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Security</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Transport</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p><h5 class="head-search"><a href="#" style="color: #005596;">Warehouse</a></h5>
+                    <p>
+                        <span class="span-s">Office</span>, <span class="span-s">Admin</span>, <span class="span-s"> Office Manager</span>, <span class="span-s">Date Entry</span>, <span class="span-s">EA Executive Assistant</span>, <span class="span-s">Receptionist</span> <span class="span-s">All Administration Job Titles</span> <span class="span-s"> By location</span>
+                    </p>
+                </div>
+            </div>
+        
+        
+    </div>
+    <div class="container pt-4 pb-4 p-lg-0">
+       
+            <h5>
+                Trending Jobs
+            </h5>
+            <div class="row">
+                <div class="col-lg-6 col-xl-3 col-md-6 col-12">
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Business Development Manager Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Office Administrator Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Project Co-coordinator Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Steel fixer jobs</a></p>
+                    
+                </div>
+                <div class="col-lg-6 col-xl-3 col-md-6 col-12">
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Document Controller Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Painter Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Setting out Engineer Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Telehandler Jobs</a></p>
+                </div>
+                <div class="col-lg-6 col-xl-3 col-md-6 col-12">
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Electrical Improver Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Pipe Fitter Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Site Mangament Jobs</a></p>
+                    <p><a href="#" class="b-f-p-i">Traffic Marshal Jobs</a></p>
+                </div>
+                <div class="col-lg-6 col-xl-3 col-md-6 col-12">
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">general Labourer Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Plumber Jobs</a></p>
+                    <p class="b-f-p"><a href="#" class="b-f-p-i">Site Supervisor Jobs</a></p>
+                    <p class="b-f-p"><a href="#"class="b-f-p-i">Van Driver Jobs</a></p>
+                </div>
+            </div>
+      
+    </div>
+
+    <div class="container pt-4 pb-4 p-lg-0 mt-4 mb-3">
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <div class="card">
+                        <div style="position:relative">
+                            <img src="~/Content/Images/card-image-one.jpg" / style="width:100%">
+                            <div class="overlay">
+                                <div class="content">
+                                    <span class="header-span">
+                                        Jobs by Location
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-header">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Birmingham</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Bradford</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Bristol  </a></p class="b-f-p">
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Coventry</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Edinburgh</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Glasgow</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Leeds</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Liverpool</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">London</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Manchester</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Cardiff</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Aberdeen</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Newcastle</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Nottingham</a></p>
+                            <p class="b-f-p"><a href="#"class="b-f-p-i">Sheffield</a></p>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <div class="card">
+                        <div style="position:relative">
+                            <img src="~/Content/Images/card-image-two.jpg" / style="width:100%">
+                            <div class="overlay">
+                                <div class="content">
+                                    <span class="header-span">
+                                        Popular jobs
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-header">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Birmingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bradford</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bristol  </a></p class="b-f-p">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Coventry</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Edinburgh</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Glasgow</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Leeds</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Liverpool</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">London</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Manchester</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Cardiff</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Aberdeen</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Newcastle</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Nottingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Sheffield</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <div class="card">
+                        <div style="position:relative">
+                            <img src="~/Content/Images/card-image-three.jpg" / style="width:100%">
+                            <div class="overlay">
+                                <div class="content">
+                                    <span class="header-span">
+                                        Jobs by industry
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-header">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Birmingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bradford</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bristol  </a></p class="b-f-p">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Coventry</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Edinburgh</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Glasgow</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Leeds</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Liverpool</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">London</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Manchester</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Cardiff</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Aberdeen</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Newcastle</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Nottingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Sheffield</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <div class="card">
+                        <div style="position:relative">
+                            <img src="~/Content/Images/card-image-four.jpg" style="width:100%">
+                            <div class="overlay">
+                                <div class="content">
+                                    <span class="header-span">
+                                        Jobs by company
+                                        
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-header">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Birmingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bradford</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Bristol  </a></p class="b-f-p">
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Coventry</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Edinburgh</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Glasgow</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Leeds</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Liverpool</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">London</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Manchester</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Cardiff</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Aberdeen</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Newcastle</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Nottingham</a></p>
+                            <p class="b-f-p"><a href="#" class="b-f-p-i">Sheffield</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    .header-span{
+        color:white;
+        font-weight:400;
+        font-size:large
+    }
+    .content{
+       text-align:center;
+        top:0;
+        bottom:0;
+        padding:7px
+    }
+    .overlay {
+        position: absolute;
+        left: 0;
+        bottom: 0px;
+        right: 0;
+        background:rgba(0,55,119,0.8);
+        
+    }
+    .card {
+        border-top: 5px solid rgba(0,55,119,0.8);
+    }
+    @@media (max-width: 992px) {
+        .container, .container-lg, .container-md, .container-sm {
+            max-width: initial;
+        }
+    }
+    .b-f-p {
+        margin: 0px 0px 6px 0px;
+        font-size: 15px;
+    }
+    .b-f-p-i {
+        color: #005596;
+
+    }
+        .b-f-p-i:hover {
+            color: #005596;
+            text-decoration:underline
+        }
+    .span-s {
+        font-size: 0.82rem;
+        color: #005596;
+    }
+    .span-s:hover{
+        text-decoration:underline;
+        cursor:pointer
+    }
+    .head-search {
+        color: #005596;
+        text-decoration: none;
+        font-size:17px;
+        font-weight:600
+    }
+    .head-search:hover{
+        text-decoration:underline
+    }
+    .circle-p {
+        color: white;
+        border: 1px solid white;
+        display: initial;
+        font-size: 13px;
+        padding: 5px 45px 5px 45px;
+        cursor:pointer
+    }
+    .find {
+        background: #5bb543;
+        text-align: center;
+        color: #fff;
+        width: 100%;
+        font-size: 17px;
+        font-weight: 500;
+    }
+        .find:hover {
+            background: #5bb543;
+            text-align: center;
+            color: #fff;
+            width: 100%;
+            font-size: 17px;
+            text-decoration: none;
+            background-color: #219a00;
+            border-color: #219a00;
+            font-weight: 500;
+        }
+    .l-s{
+        color:white;
+        font-weight:500;
+        margin-bottom:2px
+    }
+    .heading-p{
+        font-size:20px;
+        margin:0px;
+        margin-bottom:8px
+    }
+    .s-l-c{
+        color:white
+    }
+    .s-l-c:hover{
+        color:white
+    }
+    .m-s{
+        margin-bottom:22px;
+        margin-top:22px;
+    }
+
+    .p-i{
+        padding:0px
+    }
+    @@media (max-width:992px){
+        .p-i {
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        .m-s{
+            margin-bottom:0px;
+            margin-top:0px
+        }
+    }
+    .sp-p{
+        color:white;
+        cursor:pointer;
+        font-size:small
+    }
+    .sp-p:hover{
+        text-decoration:underline;
+        color:white
+    }
+    .button-anchor {
+        display: block;
+        width: 100%;
+        height: calc(1.5em + .75rem + 2px);
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: white;
+        background-color: #5bb543;
+        background-clip: padding-box;
+        border: 1px solid #5bb543;
+        border-radius: .25rem;
+        font-weight:700
+    }
+        .button-anchor:hover {
+            color: #fff;
+            text-decoration: none;
+            background-color: #219a00;
+            border-color: #219a00;
+        }
+    .form-control1 {
+        display: block;
+        width: 100%;
+        height: calc(1.5em + .75rem + 2px);
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+    @@media (max-width: 992px) {
+        .container, .container-md, .container-sm {
+            max-width: inherit;
+        }
+    }
+    .form-control{
+        height:auto !important
+    }
+    .form-control1 {
+        height: auto !important
+    }
+    .text-p:hover{
+        text-decoration:underline;
+        cursor:pointer
+    }
+    .link-t {
+        color: #219a00 !important;
+        font-weight: 500;
+    }
+    .first {
+        display: flex;
+        justify-content: space-between;
+    }
+    .tope {
+        margin: 0 auto;
+        background: #fdfdfd;
+        box-sizing: border-box;
+    }
+    .f-p {
+        font-size: small;
+        margin: 0px !important;
+        padding: .5rem 0 0.5rem 0;
+    }
+    @@media (max-width: 767px) {
+
+
+        .first {
+            display: none !important
+        }
+    }
+</style>

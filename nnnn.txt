@@ -1,0 +1,25 @@
+ <div class="col-xl-5 pl-lg-0 ss">
+                    <div class="col-md-12 tt">
+                        <form mt-2>
+                            <div class="form-group row">
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+                                <div class="col-sm-10">
+                                    <input type="password" class="form-control in" id="inputPassword" placeholder="Password">
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+                <div class="col-xl-5 pl-lg-0 ss">
+                    <div class="col-md-12 tt">
+                        <form mt-2>
+                            <div class="form-group row">
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+                                <div class="col-sm-10">
+                                    <input type="password" class="form-control in" id="inputPassword" placeholder="Password">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
